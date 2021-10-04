@@ -1,3 +1,13 @@
-body {
-    background-color: blue;
+.status-bar {
+    background-color: tomato;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.status-bar__time {
+    font-size: 15px;
 }
