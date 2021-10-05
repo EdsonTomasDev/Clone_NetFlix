@@ -4,4 +4,12 @@ body {
     background-color: #000000;
 }
 
-p { color: white;}
+p,
+h1,
+h2,
+h3,
+span,
+strong { color: white;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+}
